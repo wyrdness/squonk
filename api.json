@@ -1,0 +1,65 @@
+{
+  "category": "CRYPTID",
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/squonk",
+    "maintainers": [{"name": "Wyrdness Team", "github": "wyrdness", "role": "maintainer"}],
+    "license": {"data": "CC0-1.0", "content": "CC-BY-4.0"}
+  },
+  "phenomenon": {
+    "id": "squonk",
+    "name": "Squonk",
+    "category": "CRYPTID",
+    "subcategory": "Fearsome Critter",
+    "tags": ["fearsome-critter", "lumberjack-folklore", "pennsylvania", "tragic", "dissolves"],
+    "status": "folklore",
+    "description": {
+      "summary": "A hideously ugly creature with warty, saggy skin that weeps constantly over its own appearance and dissolves into a pool of tears when captured or seen.",
+      "full": "The Squonk is a fearsome critter from Pennsylvania lumberjack folklore, notable for being the saddest and most tragic of all fearsome critters. Described as having hideously warty, saggy skin, the Squonk is so ashamed of its appearance that it weeps perpetually while wandering hemlock forests. According to the tales, if a Squonk is captured or even observed, it dissolves completely into a pool of tears, escaping as liquid. This makes it impossible to keep as proof. The Squonk represents an unusual entry in fearsome critter folklore - a creature evoking sympathy rather than fear. It has gained cultural recognition beyond folklore, including a 1976 Genesis song titled 'Squonk.'"
+    },
+    "etymology": {
+      "origin": "Pennsylvania lumberjack folklore, early 1900s",
+      "meaning": "Likely onomatopoetic for crying/sobbing sounds",
+      "first_use": "Early 20th century"
+    }
+  },
+  "classification": {
+    "taxonomy": {"category": "CRYPTID", "type": "Fearsome Critter", "subtype": "Tragic/Sympathetic", "variant": "Pennsylvania Folklore"}
+  },
+  "characteristics": {
+    "physical": {
+      "features": [
+        {"feature": "Skin", "description": "Warty, saggy, ill-fitting skin", "frequency": "always"},
+        {"feature": "Appearance", "description": "Hideously ugly", "frequency": "always"},
+        {"feature": "Tears", "description": "Constantly weeping", "frequency": "always"}
+      ]
+    },
+    "abilities": [
+      {"ability": "Dissolution", "description": "Dissolves into pool of tears when captured or seen", "frequency": "always", "evidence_level": "folklore"},
+      {"ability": "Perpetual weeping", "description": "Cries constantly over own ugliness", "frequency": "always", "evidence_level": "folklore"}
+    ],
+    "behavior": {
+      "disposition": "sad, sympathetic",
+      "habitat_preference": ["hemlock forests", "Pennsylvania"],
+      "patterns": ["Wanders forests weeping", "Hides due to shame", "Dissolves when captured", "Escapes as liquid"]
+    }
+  },
+  "distribution": {
+    "range": {"description": "Pennsylvania hemlock forests", "continents": ["North America"], "countries": ["United States"], "regions": ["Pennsylvania", "Hemlock forests"]}
+  },
+  "cultural": {
+    "folklore": {
+      "significance": "Unique sympathetic fearsome critter - tragic rather than dangerous or absurd"
+    },
+    "popular_culture": {
+      "music": ["Genesis - 'Squonk' (1976)"],
+      "literature": ["Various folklore collections", "Referenced in fantasy literature"]
+    }
+  },
+  "sources": [
+    {"id": "cox-1910", "type": "book", "title": "Fearsome Creatures of the Lumberwoods", "authors": ["William T. Cox"], "date": "1910"},
+    {"id": "tryon-1939", "type": "book", "title": "Fearsome Critters", "authors": ["Henry H. Tryon"], "date": "1939"}
+  ]
+}
