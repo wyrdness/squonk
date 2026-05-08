@@ -1,16 +1,15 @@
-# Sources & References
+# Sources & References — Squonk
+
+Bibliography compiled from `api.json`. To add a source, edit `api.json` and regenerate.
 
 ## Books
-- Cox, W.T. (1910). *Fearsome Creatures of the Lumberwoods*. Judd & Detweiler.
-- Tryon, H.H. (1939). *Fearsome Critters*. Idlewild Press.
 
-## Music
-- Genesis (1976). "Squonk" from *A Trick of the Tail*. Charisma Records.
+- William T. Cox. (1910). *Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts*. Judd & Detweiler
+- Henry H. Tryon. (1939). *Fearsome Critters*. Idlewild Press
 
-## Citation
-```
-Wyrdness Project. (2026). Squonk. Wyrdness Paranormal Archive.
-https://github.com/wyrdness/squonk
-```
+## Websites
 
-*Last Updated: 2026-01-14*
+- *Squonk*. Wikipedia. <https://en.wikipedia.org/wiki/Squonk>
+
+---
+_Auto-generated from `api.json`._
